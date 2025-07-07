@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"deal_hands",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"deal_hands",
+  "parent":{
+    "name":"Sprites",
+    "path":"folders/Sprites.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

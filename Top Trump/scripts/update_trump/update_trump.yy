@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_trump",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_trump",
+  "parent":{
+    "name":"Sprites",
+    "path":"folders/Sprites.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
